@@ -1,4 +1,4 @@
-#Land of the Mini Projects
+# Land of the Mini Projects
 
 ## Anime Madlibs
 The madlib program brings anime adventures to life by transforming user inputs into dynamic and engaging stories, weaving imaginative tales for beloved anime titles with a touch of personalization.
