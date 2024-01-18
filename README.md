@@ -1,4 +1,6 @@
 # Land of the Mini Projects
+## Black Jack
+The game follows standard Blackjack rules, where the goal is to have a hand value as close to 21 as possible without exceeding it. The user interacts with the game through the console, making decisions such as hitting (drawing a card) or standing (keeping the current hand).
 
 ## Anime Madlibs
 The madlib program brings anime adventures to life by transforming user inputs into dynamic and engaging stories, weaving imaginative tales for beloved anime titles with a touch of personalization.
