@@ -11,7 +11,7 @@ Arithmetic quiz game that engages users with randomly generated math problems (+
 The madlib program brings anime adventures to life by transforming user inputs into dynamic and engaging stories, weaving imaginative tales for beloved anime titles with a touch of personalization.
 <br>**Language:** Python
 
-## Rock-Paper-Scissors \href{rock-paper-scissors.py}
+## [Rock-Paper-Scissors](rock-paper-scissors.py)
 Simple Rock, Paper, Scissors game where the player makes a choice, the computer generates a random choice, and the winner is determined based on the game rules, with the result displayed in a formatted string.
 <br>**Language:** Python
 
