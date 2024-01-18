@@ -1,17 +1,17 @@
 # Land of the Mini Projects
-## Black Jack
+## [Black Jack](blackjack.py)
 The game follows standard Blackjack rules, where the goal is to have a hand value as close to 21 as possible without exceeding it. The user interacts with the game through the console, making decisions such as hitting (drawing a card) or standing (keeping the current hand).
 <br>**Language:** Python
 
-## Simple Math Quiz
+## [Simple Math Quiz](math_game.py)
 Arithmetic quiz game that engages users with randomly generated math problems (+, -, *), provides real-time feedback on their answers, and offers the option to replay while tracking their score and time spent on the quiz.
 <br>**Language:** Python
 
-## Anime Madlibs
+## [Anime Madlibs](anime_madlibs.py)
 The madlib program brings anime adventures to life by transforming user inputs into dynamic and engaging stories, weaving imaginative tales for beloved anime titles with a touch of personalization.
 <br>**Language:** Python
 
-## [Rock-Paper-Scissors](rock-paper-scissors.py)
+## [Rock-Paper-Scissors](rock_paper_scissors.py)
 Simple Rock, Paper, Scissors game where the player makes a choice, the computer generates a random choice, and the winner is determined based on the game rules, with the result displayed in a formatted string.
 <br>**Language:** Python
 
