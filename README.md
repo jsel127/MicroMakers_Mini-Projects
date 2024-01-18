@@ -1,8 +1,8 @@
 #Land of the Mini Projects
 
 ## Anime Madlibs
-<br>The madlib program brings anime adventures to life by transforming user inputs into dynamic and engaging stories, weaving imaginative tales for beloved anime titles with a touch of personalization.
-**Skills:** Python
+The madlib program brings anime adventures to life by transforming user inputs into dynamic and engaging stories, weaving imaginative tales for beloved anime titles with a touch of personalization.
+<br>**Skills:** Python
 
 ## Ordinary Differential Equations (ODEs) Meet Neural Networks: A Dive Into Deep Learning with Neural ODEs 
 ### Abstract
